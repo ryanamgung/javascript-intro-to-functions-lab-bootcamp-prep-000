@@ -21,10 +21,9 @@ function logWhisper(string)
 
 functionsayHiToGrandma(string)
 {
-  var cannotHear = "I can't hear you!"
   var love = "I love you, Grandma."
   if(string === string.toLowerCase){
-    return cannotHear
+    return 'I cant hear you!'
   }else if(string === string.toUpperCase)
   {
     return 'YES INDEED!'
