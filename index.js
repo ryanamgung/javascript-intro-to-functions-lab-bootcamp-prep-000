@@ -34,6 +34,4 @@ functionsayHiToGrandma(string)
   {
     console.log("I love you, too.")
   }
-  return null
-  
 }
