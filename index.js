@@ -22,7 +22,17 @@ function logWhisper(string)
 functionsayHiToGrandma(string)
 {
   var uppercase = "HELLO!"
-  if(string === uppercase)
+  var lowercase = "hello"
+  var love = "I love you, Grandma."
+  if(string === uppercase){
+    
+  }else if(string === lowercase)
+  {
+    
+  }else if(string === love)
+  {
+    
+  }
   
   
 }
