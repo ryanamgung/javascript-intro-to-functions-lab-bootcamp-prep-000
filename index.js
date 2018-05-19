@@ -29,10 +29,10 @@ functionsayHiToGrandma(string)
     console.log(cantHear)
   }else if(string === string.toUpperCase())
   {
-    return indeed
+    console.log(indeed)
   }else if(string === love)
   {
-    return 'I love you, too.'
+    console.log("I love you, too.")
   }
   return null
   
