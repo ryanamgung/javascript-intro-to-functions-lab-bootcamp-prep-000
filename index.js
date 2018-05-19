@@ -26,7 +26,7 @@ function sayHiToGrandma(string)
   var indeed = 'YES INDEED!'
   
   if(string === string.toLowerCase()){
-    console.log(cantHear)
+    return cantHear
   }else if(string === string.toUpperCase())
   {
     console.log(indeed)
