@@ -22,9 +22,9 @@ function logWhisper(string)
 functionsayHiToGrandma(string)
 {
   var love = "I love you, Grandma."
-  if(string === string.toLowerCase){
+  if(string === string.toLowerCase()){
     return 'I can\'t hear you!'
-  }else if(string === string.toUpperCase)
+  }else if(string === string.toUpperCase())
   {
     return 'YES INDEED!'
   }else if(string === love)
