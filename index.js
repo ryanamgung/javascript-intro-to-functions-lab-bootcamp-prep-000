@@ -32,6 +32,6 @@ function sayHiToGrandma(string)
     return indeed
   }else if(string === love)
   {
-    console.log("I love you, too.")
+    return 'I love you, too.'
   }
 }
